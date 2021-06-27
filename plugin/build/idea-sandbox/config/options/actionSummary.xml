@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="28" l="1623920609312" />
+    </e>
+    <e n="EditorEnter">
+      <i c="4" l="1623920557860" />
+    </e>
+    <e n="EditorRight">
+      <i c="3" l="1623920575791" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1623920522835" />
+    </e>
+    <e n="SaveAll">
+      <i c="2" l="1623920613236" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1621811001198" />
+    </e>
+  </component>
+</application>
